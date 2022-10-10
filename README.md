@@ -71,5 +71,7 @@ $ python single-slice-prediction.py
 * Before you launch the notebooks, please configure an environment following the instruction in Environment Configuration.
 * Then, you can launch the notebook and view the diagnosis from EDAM.
 
+![avatar](docPic/pic1.jpg)
+
 
 
