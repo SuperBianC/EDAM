@@ -15,7 +15,7 @@ from PIL import Image
 import transforms as T
 import re
 import cv2
-import processLiver as pl
+import utils.processLiver as pl
 from net.PLM import GRU_with_Attention
 from dataset.dataset import SliceDataset
 from utils import getDiseaseTypeFromName,transNameToNum,transNumToStandardName,np2cv2,hex2rgb,getContour
